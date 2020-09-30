@@ -1,2 +1,2 @@
-# GBStudio-LoadIntegerIntoString
-Plugin for GBStudio implementing Integer to String function
+# GBStudio-VariableSetAllTo
+Script to set a range of variables to an integer value
